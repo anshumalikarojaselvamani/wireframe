@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Responsive Web Design Class</title>
+</head>
+<body>
+
+	<header>
+		<h1>Responsive Web Design</h1>
+		<nav role="navigation">
+			<ul class="group">
+				<li><a href="class.html">Class</a></li>
+				<li><a href="#">Workshop</a></li>
+				<li><a href="#">Blog</a></li>
+				<li><a href="#">About</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<main>
+		<p class="tagline"><strong>Responsive Web Design</strong> Classes from Coastal Carolina University</p>
+		<section class="introduction">
+			<p>About Us Content <a href="#"Course</a> and <a href="#"> Workshop</a>,</p>
+			<a href="#">Learn More CCU</a>
+		</section>
+	</main>
+
+	<aside>
+		<h3>Latest Blog Posts</h3>
+		<div class="blog-post">
+			<div class="blog-post-date">
+				July 12
+			</div>
+			<div class="blog-post-title">
+				<h4>New CCU Website Launched</h4>
+			</div>
+			<div class="blog-post-summary">
+				<p>We've launched a new engagement track.</p>
+			</div>
+		</div>
+		<a href="#" class="button">View All Posts</a>
+	</aside>
+
+	<footer>
+		<div class="footer-contact-information">
+			<p><a href="#">College of Art</a></p>
+			<p><a href="#">Coastal Art Dept</a></p>
+			<a class="footer-instructor" href="#">Author: Anshu</a>
+			<div class="footer-supplemental">
+				<a href="#">Follow @CCU on Twitter</a>
+				<a href="#">View this Site on GitHub</a>
+			</div>
+		</div>
+		<div class="footer-logo">
+			<p>Logo Goes Here</p>
+		</div>
+	</footer>
+
+</html>
